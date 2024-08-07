@@ -1,4 +1,6 @@
 Kaggle Link: https://www.kaggle.com/c/learnplatform-covid19-impact-on-digital-learning/overview
+Inspiration: https://www.kaggle.com/code/iamleonie/maslow-before-bloom
+
 
 # Challenge
 We challenge the Kaggle community to explore (1) the state of digital learning in 2020 and (2) how the engagement of digital learning relates to factors such as district demographics, broadband access, and state/national level policies and events.
